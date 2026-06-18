@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.font-orbitron {
+  font-family: "Orbitron", sans-serif;
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+a.active {
+  color: #facc15;
+  border-bottom: 4px solid #ff4c4c;
+}
+
+.gradient {
+  background: linear-gradient(90deg, #000000 60%, #ffffff00);
+}
